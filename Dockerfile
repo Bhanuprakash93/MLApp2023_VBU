@@ -1,0 +1,7 @@
+FROM mysql:5.7.25 # Added 
+EXPOSE 3306
+ENV MYSQL_USER "root" 
+ENV MYSQL_DATABASE "cust_db" 
+ENV MYSQL_ROOT_PASSWORD "insofe"
+WORKDIR /AppMySQL
+My App My wish 
