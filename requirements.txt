@@ -1,7 +1,8 @@
 numpy==1.16.2
-pandas==0.25.7// pandas version has changed by BhanuPrakash
+pandas==0.25.6// pandas version has changed by BhanuPrakash
 scikit_learn==0.20.3
 joblib==0.13.2
 sqlalchemy
 mysql-connector-python
 jupyter
+Scipy == 1.2.3.4###Added in Feature1
